@@ -15,3 +15,4 @@ def key_for_min_value(hash)
     lowest_key
   end
   key_for_min_value
+end
